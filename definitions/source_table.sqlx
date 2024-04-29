@@ -1,5 +1,5 @@
 config {
-  type: "table",
+  type: "incremental",
   description: "Description of the first table."
 }
 SELECT 1 AS number
